@@ -1,7 +1,12 @@
 ---
 layout: home
+title: ""
 ---
 
-# Welcome to My Writing Ground
+# Rahul’s Thinking Ground
 
-Thoughts on strategy, analytics, transformation, and all things that move markets and minds.
+_Exploring strategy, analytics, transformation, and all things that move markets and minds._
+
+---
+
+Welcome to my curated collection of writing, frameworks, and reflections — drawn from the front lines of business transformation, data-driven strategy, and AI disruption.
