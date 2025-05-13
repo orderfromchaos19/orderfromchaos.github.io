@@ -1,9 +1,7 @@
 ---
-layout: default
-title: ""
+layout: home
+title: Rahul’s Thinking Ground
 ---
-
-# Rahul’s Thinking Ground
 
 _Exploring strategy, analytics, transformation, and all things that move markets and minds._
 
