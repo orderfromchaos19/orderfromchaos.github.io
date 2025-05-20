@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Isn’t a Tool. It’s a New Brain for Sales & Service"
-date: 2025-05-14
+date: 2025-05-14 12:00:00 +0530
 ---
 
 We’ve misunderstood what AI in business really means.
