@@ -1,3 +1,10 @@
+---
+layout: post
+title: "What Do You Act On — Before You Regret Not Acting?"
+date: 2025-06-03
+author: Rahul Ghosh
+tags: [Decision Architecture, Systems Thinking, Sales Strategy, Service Design, AI in Operations]
+---
 # 🧠 What Do You Act On — Before You Regret Not Acting?
 
 Every business system — whether it’s a sales funnel, a support workflow, or a pricing engine — runs on one invisible rule:
